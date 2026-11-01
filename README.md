@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/xenixxD/dsa/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/xenixxD/dsa/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xenixxD/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/xenixxD/dsa/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/xenixxD/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/xenixxD/dsa/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/xenixxD/dsa/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
